@@ -45,11 +45,11 @@ def get_circle_area_given_radius(radius):
 
     # Use a try / except / finally block when something 
     # could go wrong
-    logger.info(f"CALLING get_circle_area({radius})")
+    logger.info(f"CALLING get_bookshelf_area({20})")
 
     try: 
-        area = 2 * math.pi * radius
-        logger.info(f"The circle area is {area}")
+        area = 2 * math.pi * 20
+        logger.info(f"The bookshelf area is {area}")
         return area
     except Exception as ex:
         logger.error(f"Error: {ex}")

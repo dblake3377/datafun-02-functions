@@ -1,0 +1,24 @@
+2023-05-17 19:48:34,668 =============================================================
+2023-05-17 19:48:34,669 =============================================================
+2023-05-17 19:48:34,669 Today is 2023-05-17 at 07:48 PM
+2023-05-17 19:48:34,691 This file is running on: nt Windows 10
+2023-05-17 19:48:34,692 The Python version is: 3.11.3
+2023-05-17 19:48:34,692 The active conda environment is:  None
+2023-05-17 19:48:34,692 The active pip environment is:    None
+2023-05-17 19:48:34,692 The active environment path is:   C:\Users\desir\AppData\Local\Programs\Python\Python311
+2023-05-17 19:48:34,692 The current working directory is: C:\Users\desir\OneDrive\Documents\datafun-02-functions\datafun-02-functions
+2023-05-17 19:48:34,692 This source file is in:           c:\Users\desir\OneDrive\Documents\datafun-02-functions\datafun-02-functions
+2023-05-17 19:48:34,692 =============================================================
+2023-05-17 19:48:34,692 =============================================================
+2023-05-17 19:48:34,693 Explore some functions in the math module
+2023-05-17 19:48:34,693 math.comb(5,1) = 5
+2023-05-17 19:48:34,693 math.perm(5,1) = 5
+2023-05-17 19:48:34,693 Explore some functions in the math module
+2023-05-17 19:48:34,693 math.comb(5,1) = 5
+2023-05-17 19:48:34,693 math.perm(5,1) = 5
+2023-05-17 19:48:34,693 math.comb(5,3) = 10
+2023-05-17 19:48:34,693 math.perm(5,3) = 60
+2023-05-17 19:48:34,693 math.pi = 3.141592653589793
+2023-05-17 19:48:34,693 math.degrees(2 * math.pi) = 360.0
+2023-05-17 19:48:34,693 math.radians(180)         = 3.141592653589793
+2023-05-17 19:48:34,693 

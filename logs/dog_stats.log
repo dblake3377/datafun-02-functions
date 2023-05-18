@@ -1,0 +1,23 @@
+2023-05-17 17:16:00,081 =============================================================
+2023-05-17 17:16:00,082 =============================================================
+2023-05-17 17:16:00,082 Today is 2023-05-17 at 05:16 PM
+2023-05-17 17:16:00,098 This file is running on: nt Windows 10
+2023-05-17 17:16:00,098 The Python version is: 3.11.3
+2023-05-17 17:16:00,098 The active conda environment is:  None
+2023-05-17 17:16:00,098 The active pip environment is:    None
+2023-05-17 17:16:00,098 The active environment path is:   C:\Users\desir\AppData\Local\Programs\Python\Python311
+2023-05-17 17:16:00,098 The current working directory is: C:\Users\desir\OneDrive\Documents\datafun-02-functions\datafun-02-functions
+2023-05-17 17:16:00,099 This source file is in:           c:\Users\desir\OneDrive\Documents\datafun-02-functions\datafun-02-functions
+2023-05-17 17:16:00,099 =============================================================
+2023-05-17 17:16:00,099 =============================================================
+2023-05-17 17:16:07,928 temp_1 = 10.0
+2023-05-17 17:16:07,928 temp_2 = 7.0
+2023-05-17 17:16:07,928 temp_3 = 8.0
+2023-05-17 17:16:07,928 The sum is 25.0.
+2023-05-17 17:16:07,928 The average is 8.33.
+2023-05-17 17:16:07,928 The product is 560.0.
+2023-05-17 17:16:07,928 The smallest is 7.0.
+2023-05-17 17:16:07,928 The largest is 10.0.
+2023-05-17 17:16:07,928 The range is 3.0.
+2023-05-17 17:16:07,928 It's above freezing at the Doggy Daycare!
+2023-05-17 17:16:11,946 Script complete. See log file for details.
